@@ -1,0 +1,9 @@
+C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/CMakeFiles/matematicas.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/CMakeFiles/matematicas_shared.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/CMakeFiles/funciones.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir

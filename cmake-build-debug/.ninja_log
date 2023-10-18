@@ -1,0 +1,9 @@
+# ninja log v5
+18	106	7193566908688329	CMakeFiles/main.dir/funciones.cpp.obj	2ef87dc4194a51e
+0	408	7193566911709645	CMakeFiles/matematicas.dir/matematicas.cpp.obj	3cabd66af0d029a9
+410	527	7193566912885276	libmatematicas.a	1ca3e8cede18a7d1
+6	593	7193566913565200	CMakeFiles/main.dir/main.cpp.obj	e8526f11c42644cc
+11	2316	7193566930728966	_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj	2e76be3f77fc34e
+24	2625	7193566933877776	_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj	4caa2157395423a9
+2626	3290	7193566940539782	_deps/fmt-build/libfmtd.a	bd357bc7847c03fb
+3290	4063	7193566948226491	main.exe	51bd1c59e66141be

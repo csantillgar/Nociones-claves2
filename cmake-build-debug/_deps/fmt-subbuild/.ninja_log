@@ -1,0 +1,21 @@
+# ninja log v5
+0	47	7193566524878610	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	7dd09196ffd69ddc
+0	47	7193566524878610	C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	7dd09196ffd69ddc
+47	4825	7193566572648379	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	fc6ea2b7c8abd4ea
+47	4825	7193566572648379	C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	fc6ea2b7c8abd4ea
+4825	5036	0	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	9c074399ab967b49
+4825	5036	0	C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	9c074399ab967b49
+5037	5120	7193566575566877	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	a13bff36b8d428c3
+5037	5120	7193566575566877	C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	a13bff36b8d428c3
+5121	5198	7193566576386490	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	ed2dd89597821fe3
+5121	5198	7193566576386490	C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	ed2dd89597821fe3
+5198	5252	7193566576931241	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	8984ecf9ba2b3928
+5198	5252	7193566576931241	C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	8984ecf9ba2b3928
+5253	5330	7193566577699863	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	d899e5feedcc4134
+5253	5330	7193566577699863	C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	d899e5feedcc4134
+5331	5396	7193566578357414	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	f690f54e3716e6f7
+5331	5396	7193566578357414	C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	f690f54e3716e6f7
+5396	5478	7193566579185103	CMakeFiles/fmt-populate-complete	2dbf00f5610782f0
+5396	5478	7193566579185103	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	2dbf00f5610782f0
+5396	5478	7193566579185103	C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	2dbf00f5610782f0
+5396	5478	7193566579185103	C:/Users/cinti/Documents/GitHub/Nociones-claves2/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	2dbf00f5610782f0
